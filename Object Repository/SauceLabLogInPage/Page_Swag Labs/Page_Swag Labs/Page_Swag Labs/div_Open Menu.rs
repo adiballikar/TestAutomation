@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Open Menu</name>
+   <tag></tag>
+   <elementGuidId>b5d780cc-5970-4b1e-a14f-fd0dd774cb07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bm-burger-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu_button_container']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;primary-header&quot;] div >> internal:has-text=&quot;Open Menu&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58fb82f9-b92f-4e08-b9c1-6e575c73a26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bm-burger-button</value>
+      <webElementGuid>4e86e505-a453-4caa-ba9d-6bc4494a5518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open Menu</value>
+      <webElementGuid>311a5a3a-c9f8-45ee-844c-e2b8f4222ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_button_container&quot;)/div[1]/div[1]/div[@class=&quot;bm-burger-button&quot;]</value>
+      <webElementGuid>516a74ae-2d62-4fb9-988c-f7429b22066d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu_button_container']/div/div/div</value>
+      <webElementGuid>0b572d7f-b80d-4cba-8007-945fb46bc46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::div[1]</value>
+      <webElementGuid>7227ab7c-1f94-44e7-a4e1-45cf07854f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>7940a0e3-9d44-4af2-a3f4-27133e0fb44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Open Menu' or . = 'Open Menu')]</value>
+      <webElementGuid>ac2ed3f5-888d-4152-8ab5-045f742496bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
